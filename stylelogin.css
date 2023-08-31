@@ -69,6 +69,12 @@ body, html {
   background: linear-gradient(top, #7579ff, #b224ef);
 }
 
+@media (max-width: 576px) {
+  .wrap-login100 {
+    padding: 55px 15px 37px 15px;
+  }
+}
+
 .login100-form {
   width: 100%;
 }
