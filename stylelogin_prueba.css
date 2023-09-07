@@ -12,6 +12,13 @@ body, html {
 .wrapper-body {
 	color: #fff;
 }
+
+.wrapper-body .input-box {
+	width: 100%;
+	height: 50px;
+	background: salmon;
+}
+
 .container-login100 {
   width: 100%;  
   min-height: 100vh;
