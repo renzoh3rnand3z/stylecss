@@ -127,9 +127,6 @@ body, html {
   top: 0;
   left: 0;
   background-color: rgba(66, 98, 250, 0.8);
-  -webkit-filter: blur(10px);
-  -moz-filter: blur(10px);
-  backdrop-filter: blur(10px);
 }
 
 .login100-form-title {
