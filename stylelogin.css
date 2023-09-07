@@ -8,6 +8,10 @@ body, html {
 	height: 100%;
 	font-family: Poppins-Regular, sans-serif;
 }
+
+.wrapper-body {
+	color: #fff;
+}
 .container-login100 {
   width: 100%;  
   min-height: 100vh;
