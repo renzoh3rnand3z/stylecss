@@ -83,7 +83,7 @@ body, html {
 .wrapper-body .register-link {
 	font-size: 14.5px;
 	text-align: center;
-	margin-top: 20px;
+	margin: 20px 0 15px;
 }
 
 .register-link p a {
